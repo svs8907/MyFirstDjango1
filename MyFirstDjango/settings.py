@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-0lr%a%4^hfjjmz$z)flbhfl@(ut$2%qq=5+n%^j(ui=n9_%lai
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['Medicare.onrender.com','127.0.0.1']
+ALLOWED_HOSTS = ['myfirstdjango1.onrender.com','127.0.0.1']
 
 
 # Application definition
